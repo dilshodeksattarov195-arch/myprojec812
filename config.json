@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "emailsalidate",
+        "uuid": 3542756,
+        "checksum": "n0kupb"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "production"
+    }
+}
